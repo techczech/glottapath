@@ -1,0 +1,5 @@
+{
+  "name": "Glottapath",
+  "description": "A web-based language learning platform where teachers create learning journeys (called 'paths') using AI-powered component banks. Students work through these paths with immediate AI feedback.",
+  "requestFramePermissions": []
+}
